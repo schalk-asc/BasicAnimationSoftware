@@ -1,0 +1,55 @@
+C:\Users\schal\source\repos\loadtest\bin\Debug\loadtest.exe.config
+C:\Users\schal\source\repos\loadtest\bin\Debug\loadtest.exe
+C:\Users\schal\source\repos\loadtest\bin\Debug\loadtest.pdb
+C:\Users\schal\source\repos\loadtest\bin\Debug\testlibrary2.dll
+C:\Users\schal\source\repos\loadtest\bin\Debug\testlibrary2.pdb
+C:\Users\schal\source\repos\loadtest\obj\Debug\loadtest.csproj.AssemblyReference.cache
+C:\Users\schal\source\repos\loadtest\obj\Debug\loadtest.Properties.Resources.resources
+C:\Users\schal\source\repos\loadtest\obj\Debug\loadtest.csproj.GenerateResource.cache
+C:\Users\schal\source\repos\loadtest\obj\Debug\loadtest.csproj.CoreCompileInputs.cache
+C:\Users\schal\source\repos\loadtest\obj\Debug\loadtest.csproj.CopyComplete
+C:\Users\schal\source\repos\loadtest\obj\Debug\loadtest.exe
+C:\Users\schal\source\repos\loadtest\obj\Debug\loadtest.pdb
+C:\Users\schal\source\repos\loadtest\obj\Debug\loadtest.Form1.resources
+C:\Users\schal\source\repos\loadtest\bin\Debug\App.config
+C:\Users\schal\source\repos\loadtest\obj\Debug\loadtest.BrushesPanel.resources
+C:\Users\schal\source\repos\loadtest\obj\Debug\loadtest.BrushControl.resources
+C:\Users\schal\source\repos\loadtest\bin\Debug\Brushes\Pincel1.png
+C:\Users\schal\source\repos\loadtest\bin\Debug\Brushes\Pincel2.png
+C:\Users\schal\source\repos\loadtest\bin\Debug\Brushes\Pincel1 - copia (2).png
+C:\Users\schal\source\repos\loadtest\bin\Debug\Brushes\Pincel1 - copia (3).png
+C:\Users\schal\source\repos\loadtest\bin\Debug\Brushes\Pincel1 - copia.png
+C:\Users\schal\source\repos\loadtest\bin\Debug\Brushes\Pincel2 - copia (2).png
+C:\Users\schal\source\repos\loadtest\bin\Debug\Brushes\Pincel2 - copia (3).png
+C:\Users\schal\source\repos\loadtest\bin\Debug\Brushes\Pincel2 - copia.png
+C:\Users\schal\source\repos\loadtest\obj\Debug\loadtest.Animation.resources
+C:\Users\schal\source\repos\loadtest\obj\Debug\loadtest.FrameControl.resources
+C:\Users\schal\source\repos\loadtest\obj\Debug\loadtest.LayersControl.resources
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\Brushes\Pincel1 - copia (2).png
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\Brushes\Pincel1 - copia (3).png
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\Brushes\Pincel1 - copia.png
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\Brushes\Pincel1.png
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\Brushes\Pincel2 - copia (2).png
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\Brushes\Pincel2 - copia (3).png
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\Brushes\Pincel2 - copia.png
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\Brushes\Pincel2.png
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\App.config
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\loadtest.exe.config
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\loadtest.exe
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\loadtest.pdb
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\testlibrary2.dll
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\bin\Debug\testlibrary2.pdb
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.csproj.AssemblyReference.cache
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.Animation.resources
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.BrushControl.resources
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.BrushesPanel.resources
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.Form1.resources
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.FrameControl.resources
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.LayerControl.resources
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.LayersControl.resources
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.Properties.Resources.resources
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.csproj.GenerateResource.cache
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.csproj.CoreCompileInputs.cache
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.csproj.CopyComplete
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.exe
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\obj\Debug\loadtest.pdb

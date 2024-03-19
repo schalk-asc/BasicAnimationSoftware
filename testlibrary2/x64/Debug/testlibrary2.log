@@ -1,0 +1,6 @@
+﻿  MyUserControl.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+MyUserControl.obj : warning LNK4248: unresolved typeref token (0100001A) for 'SDL_Window'; image may not run
+MyUserControl.obj : warning LNK4248: unresolved typeref token (0100001B) for 'SDL_Renderer'; image may not run
+MyUserControl.obj : warning LNK4248: unresolved typeref token (01000034) for 'SDL_Texture'; image may not run
+  testlibrary2.vcxproj -> C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\loadtest\x64\Debug\testlibrary2.dll

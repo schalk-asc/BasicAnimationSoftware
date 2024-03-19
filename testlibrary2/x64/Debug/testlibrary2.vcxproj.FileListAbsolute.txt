@@ -1,0 +1,6 @@
+C:\Users\schal\source\repos\testlibrary2\x64\Debug\testlibrary2.vcxproj.AssemblyReference.cache
+C:\Users\schal\source\repos\testlibrary2\x64\Debug\testlibrary2.MyUserControl.resources
+C:\Users\schal\source\repos\testlibrary2\x64\Debug\testlibrary2.vcxproj.GenerateResource.cache
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\testlibrary2\x64\Debug\testlibrary2.vcxproj.AssemblyReference.cache
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\testlibrary2\x64\Debug\testlibrary2.MyUserControl.resources
+C:\Users\schal\OneDrive\Documentos\GitHub\BasicAnimationSoftware\testlibrary2\x64\Debug\testlibrary2.vcxproj.GenerateResource.cache

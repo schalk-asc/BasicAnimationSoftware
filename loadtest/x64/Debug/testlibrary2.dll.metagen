@@ -1,0 +1,46 @@
+  testlibrary2.MyUserControl.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly testlibrary2, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class testlibrary2.MyUserControl: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    SDL_Window* window : Public
+    SDL_Renderer* renderer : Public
+    Int32 current_mousepositionx : Public
+    testlibrary2.AvailableTools CurrentTool : Public
+    System.Drawing.Color SelectedColor : Public
+    Boolean executing : Public
+    Boolean test11 : Public
+    Int32 current_mousepositiony : Public
+    System.String BrushPath : Public
+  Methods:
+    EmbedCalc(HWND__*, HWND__*): PrivateScope, Public, HideBySig
+    Inicialize(): PrivateScope, Public, HideBySig
+    clear(): PrivateScope, Public, HideBySig
+    captureEvents(): PrivateScope, Public, HideBySig
+    Render(): PrivateScope, Public, HideBySig
+    SaveImage(String): PrivateScope, Public, HideBySig
+    RenderFunction(String): PrivateScope, Public, HideBySig
+    Myevents(): PrivateScope, Public, HideBySig
+    CloseWindows(): PrivateScope, Public, HideBySig
+    SetTool(AvailableTools): PrivateScope, Public, HideBySig
+    SetBrush(String, Color): PrivateScope, Public, HideBySig
+Struct testlibrary2.AvailableTools: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    SByte value__ IsSignUnspecifiedByte : Public, SpecialName, RTSpecialName
+    testlibrary2.AvailableTools Brush = 0 : Public, Static, Literal, HasDefault

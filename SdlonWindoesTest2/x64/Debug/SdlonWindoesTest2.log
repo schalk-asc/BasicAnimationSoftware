@@ -1,2 +1,0 @@
-﻿  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-MainForm.obj : fatal error LNK1306: DLL entry point "void __cdecl Main(void)" (?Main@@$$FYAXXZ) cannot be managed; compile to native
